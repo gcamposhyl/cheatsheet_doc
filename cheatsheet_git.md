@@ -3,7 +3,7 @@
 ### Traer ramas de repositorio github a local 
 - git fetch
 
-### Una vez traidasa las ramas de github, usar en repositorio local
+### Una vez traidas las ramas de github, usar en repositorio local
 - git checkout -t origin/{nombre_rama_de_github}
 
 ### Consultar ramas actuales repositorio local
