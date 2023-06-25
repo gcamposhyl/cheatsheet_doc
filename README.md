@@ -12,4 +12,4 @@
 
 - [Git](https://github.com/gcamposhyl/cheatsheet_doc/blob/main/cheatsheet_git.md)
 - [Entornos Virtuales](https://github.com/gcamposhyl/cheatsheet_doc/blob/main/cheatsheet_env.md)
-- [Docker](https://github.com/gcamposhyl/cheatsheet_doc/blob/main/docker.md)s
+- [Docker](https://github.com/gcamposhyl/cheatsheet_doc/blob/main/docker.md)
