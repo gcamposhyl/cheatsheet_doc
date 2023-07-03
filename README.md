@@ -1,5 +1,5 @@
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-latest-F05032)
+[![Git](https://img.shields.io/badge/Git-latest-F05032)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-latest-181717?logo=github&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-latest-2496ED?logo=docker&logoColor=white)](#)
 [![Docker Compose](https://img.shields.io/badge/Docker_Compose-latest-2496ED?logo=docker&logoColor=white)](#)

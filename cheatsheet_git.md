@@ -17,3 +17,8 @@
 
 ### Treaer datos de github a local
 - git pull origin {nombre_rama_github}
+
+
+### Hacer mersh dos ramas en local (desde rama destino)
+
+- git merge --no-commit {nombre_de_la_otra_rama}
