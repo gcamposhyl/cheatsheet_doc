@@ -22,3 +22,12 @@
 ### Hacer mersh dos ramas en local (desde rama destino)
 
 - git merge --no-commit {nombre_de_la_otra_rama}
+
+
+### Crear tag (se debe estar en rama pertinente)
+
+- git tag -a {nombre_tag} -m "{comentario_tag}"
+
+### Subir todos los tags locales
+
+- git push origin --tags
